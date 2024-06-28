@@ -20,11 +20,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Helengendary/Helengendary/output/snake.svg" alt="Snake animation" />
-
-###
+![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <a href="https://open.spotify.com/user/2xdm1ryu87yvlcqabpdjwlpp2">
