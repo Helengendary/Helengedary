@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Helengendary/Helengendary/.github/worflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Helengendary/Helengendary/output/snake.svg" alt="Snake animation" />
 
 ###
 
