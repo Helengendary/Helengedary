@@ -1,16 +1,35 @@
-<img width=100% src="http://capsule-render.vercel.app/api?type=waving&color=6959CD&height=180&section=header&text=Amilton%20Moreira&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6959CD&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Helena+Picinin+de+Lima;I'm+18+Years+Old;I'm+From+Curitiba,+PR;Welcome!:%29)](https://git.io/typing-svg)
-
-<div align="center">
-  <a href="https://github.com/Helengendary">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Helengendary&show_icons=true&theme=light&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helengendary&layout=compact&hide_border=true&langs_count=7&theme=light&bg_color=0d1117"/>
-</div>
+###
 
 <div align="center">
-  <a href="https://www.instagram.com/anelehpicinin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Helengendary&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Helengendary&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6959CD&height=120&section=footer"/>
+<div align="left">
+  <a href="https://www.linkedin.com/in/helena-picinin-de-lima-b85742227/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/anelehpicinin/?next=%2F" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Helengendary/Helengendary/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/2xdm1ryu87yvlcqabpdjwlpp2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2xdm1ryu87yvlcqabpdjwlpp2&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
