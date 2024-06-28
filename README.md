@@ -26,6 +26,6 @@
 
 ###
 
-![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Helengendary/Helengendary/blob/output/github-contribution-grid-snake.svg)
 
 ###
