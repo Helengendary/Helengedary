@@ -27,10 +27,4 @@
 
 ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/2xdm1ryu87yvlcqabpdjwlpp2">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2xdm1ryu87yvlcqabpdjwlpp2&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
